@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae94b329-571e-4698-862f-d0c1c8290b1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinCoroutine.md" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Coroutines/KotlinCoroutine.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kotlin_ktor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/kotlin_ktor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/AbstractClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/AbstractClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Arrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Basics.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Basics.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Classes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Classes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Collections.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Collections.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataClasses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/DataClasses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/DataTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Delegation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Delegation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Destructuring.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Destructuring.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ExceptionHandling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/ExceptionHandling.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Extension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Extension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/IfElse.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/IfElse.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Inheritance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Interface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Interface.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Operators.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Ranges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Strings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/Variables.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/When.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/When.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/labelledbreak.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin Learnings/src/main/kotlin/labelledbreak.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OC900vuYvkuLbXDojYdQkUC847" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ritvik/ktor-projects",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Kotlin Coroutines" />
+      <recent name="$PROJECT_DIR$/Kotlin Learnings" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae94b329-571e-4698-862f-d0c1c8290b1f" name="Changes" comment="" />
+      <created>1681053469684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681053469684</updated>
+    </task>
+    <servers />
+  </component>
+</project>

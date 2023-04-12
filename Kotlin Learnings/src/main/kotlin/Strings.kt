@@ -1,5 +1,3 @@
-import java.util.*
-
 fun main(args: Array<String>) {
     val escapedString : String  = "I am escaped String!\n"
     var rawString :String  = """This
